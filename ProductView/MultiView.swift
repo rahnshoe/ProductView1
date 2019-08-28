@@ -138,7 +138,7 @@ class MultiView: NSViewController {
                // } else {
                     // no match
                 
-                //temp chande delete me
+                //temp change delete me
                 
               //  }
                 
